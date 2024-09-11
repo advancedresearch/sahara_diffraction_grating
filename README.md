@@ -41,7 +41,7 @@ The idea of this project is to organize expert groups focusing on various tasks:
 
 - Data gathering
 - Modeling and simulation
-- Communication systems (e.g. satelite observations)
+- Communication systems (e.g. satellite observations)
 - Prototyping
 - Engineering and optimization
 - Experiment designs
