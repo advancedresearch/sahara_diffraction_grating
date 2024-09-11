@@ -1,6 +1,8 @@
 # Sahara Diffraction Grating
 Researching the possibility of mitigating the climate crisis by large scale diffraction grating in Sahara desert
 
+[Join us on Discord!](https://discord.gg/JkrhJJRBR2)
+
 ### What is diffraction grating?
 
 [Diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating) is a quantum effect,
